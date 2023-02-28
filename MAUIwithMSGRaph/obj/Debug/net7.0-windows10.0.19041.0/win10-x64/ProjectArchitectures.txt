@@ -1,0 +1,1 @@
+D:\Development\MAUI\hack-together\MAUIwithMSGRaph\MAUIwithMSGRaph.csproj;x64
